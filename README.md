@@ -66,7 +66,7 @@ llm-text-to-sql/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-text-to-sql.git
+git clone https://github.com/RajhansJain/llm-text-to-sql.git
 cd llm-text-to-sql
 ```
 
