@@ -1,0 +1,17 @@
+# Web Interface
+streamlit>=1.54.0
+
+# Core AI (Updated SDK)
+google-genai>=1.63.0
+python-dotenv>=1.2.0
+
+# Database & Agent Logic
+sqlalchemy>=2.0.0
+langgraph>=0.13.0
+langchain-google-genai>=2.0.0
+
+# Data handling (If you want to chat with PDFs later)
+PyPDF2
+pandas
+google-api-core
+xlsxwriter
